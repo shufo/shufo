@@ -1,4 +1,0 @@
-this is a test
-new line
-hoge line
-more new line
